@@ -1,5 +1,3 @@
-<img width="1203" height="342" alt="Screenshot 2025-11-24 184318" src="https://github.com/user-attachments/assets/ca5b7848-aff7-43ca-bc5f-3ad6873832b4" /># LU Decomposition 
-
 ## AIM:
 To write a program to find the LU Decomposition of a matrix.
 
