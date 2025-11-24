@@ -16,8 +16,8 @@ To write a program to find the LU Decomposition of a matrix.
 ```
 /*
 Program to find the L and U matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: R P Loshini
+RegisterNumber: 25002119
 */
 # To print X matrix (solution to the equations)
 import numpy as np
@@ -31,8 +31,8 @@ print(u)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: R P Loshini
+RegisterNumber: 25002119
 */
 # To print X matrix (solution to the equations)
 import numpy as np
